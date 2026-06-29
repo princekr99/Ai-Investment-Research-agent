@@ -1,5 +1,7 @@
 # AI Investment Research Agent
 
+🚀 **Live Deployment:** [https://ai-investment-research-agent-rosy.vercel.app/](https://ai-investment-research-agent-rosy.vercel.app/)
+
 An institutional-grade multi-agent stock market research and analysis platform. This application resolves company names to stock symbols, initiates a multi-agent LangGraph workflow to collect financial metrics, analyzes news sentiment, performs SWOT mapping, evaluates competitive moats, and synthesizes a final Chief Investment Officer (CIO) investment thesis (`INVEST` or `PASS`).
 
 ---
