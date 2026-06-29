@@ -13,8 +13,8 @@ export default function Header() {
             <BrainCircuit className="w-5 h-5 text-white" />
           </div>
           <div>
-            <h1 className="text-sm font-bold text-white tracking-tight leading-none">Antigravity</h1>
-            <span className="text-[10px] text-zinc-400 font-semibold uppercase tracking-wider">Investment Research Agent</span>
+            <h1 className="text-sm font-bold text-white tracking-tight leading-none">INVESTMENT AGENT</h1>
+            <span className="text-[10px] text-zinc-400 font-semibold uppercase tracking-wider">Hedge Fund Intelligence</span>
           </div>
         </div>
 
